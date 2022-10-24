@@ -1,0 +1,95 @@
+body {
+    background-color: gold;
+    color: white;
+    
+}
+
+.login {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%,-50%) ;
+    background-color: rgb(148, 148, 148);
+    padding: 300px;
+    border-bottom-right-radius: 100px;
+    border-top-left-radius: 100px;
+    transition: 1s;
+}
+
+.login input , button {
+    
+    margin-top: 8px;
+    padding: 8px ;
+    border-radius: 8px;
+    border-color: black;
+    transition: 8s;
+}
+
+button {
+    background-color: #ffffff;
+    color: black;
+    width: 100%;
+    transition: 0.6s;
+
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: rgb(0, 206, 0);
+}
+
+ 
+
+.logi {
+    text-align: center;
+    
+    transition: 1s;
+}
+
+
+.logi input , button {
+    margin-top: 8px;
+    padding: 8px ;
+    border-radius: 8px;
+    border-color: black;
+    transition: 8s;
+}
+
+button {
+    background-color: #ffffff;
+    color: black;
+    width: 100%;
+    transition: 0.6s;
+
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: rgb(0, 206, 0);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
